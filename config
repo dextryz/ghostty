@@ -1,0 +1,32 @@
+#font-family = JetBrainsMono Nerd Font Mono
+font-family = Maple Mono NF CN
+font-style = Thin
+#font-family-italic = JetBrainsMono Nerd Font Mono
+font-family-italic = Maple Mono NF CN
+font-style-italic = Thin Italic
+font-size = 18
+#theme = tokyonight_moon
+#theme = everforest
+#theme = iceberg
+theme = rose-moon
+#theme = kanagawa_wave
+background-opacity = 0.9
+font-thicken = false
+background-blur = true
+window-padding-x = 20
+window-padding-y = 20
+macos-titlebar-style = tabs
+mouse-hide-while-typing = true
+window-inherit-working-directory = true
+keybind = ctrl+t=new_tab
+keybind = ctrl+h=previous_tab
+keybind = alt+h=goto_split:left
+keybind = alt+j=goto_split:bottom
+keybind = alt+k=goto_split:top
+keybind = alt+l=goto_split:right
+keybind = super+enter=toggle_fullscreen
+
+keybind = alt+shift+h=new_split:left
+keybind = alt+shift+j=new_split:down
+keybind = alt+shift+k=new_split:up
+keybind = alt+shift+l=new_split:right
