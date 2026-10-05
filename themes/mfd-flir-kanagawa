@@ -1,0 +1,34 @@
+# mfd-flir (white-hot thermal) base with Kanagawa accents for the ANSI slots.
+# Mirrors the nvim setup: monotone mfd-flir + kanagawa colours for numbers (sakuraPink),
+# booleans (surimiOrange), strings (boatYellow2) and the current line number (waveRed).
+# Normal slots use Kanagawa's muted "autumn/wave" shades, bright slots the "spring" ones.
+#
+#  0 bg          1 waveRed      2 autumnGreen  3 boatYellow2
+#  4 crystalBlue 5 sakuraPink   6 waveAqua1    7 fg
+#  8 dim (lifted to match nvim comments)       9 peachRed
+# 10 springGreen 11 carpYellow 12 springBlue  13 oniViolet
+# 14 waveAqua2   15 bright
+
+palette = 0=#181818
+palette = 1=#e46876
+palette = 2=#76946a
+palette = 3=#c0a36e
+palette = 4=#7e9cd8
+palette = 5=#d27e99
+palette = 6=#6a9589
+palette = 7=#909090
+palette = 8=#606060
+palette = 9=#ff5d62
+palette = 10=#98bb6c
+palette = 11=#e6c384
+palette = 12=#7fb4ca
+palette = 13=#957fb8
+palette = 14=#7aa89f
+palette = 15=#a8a8a8
+background = #181818
+foreground = #909090
+cursor-color = #c0c0c0
+cursor-text = #181818
+selection-background = #303030
+selection-foreground = #909090
+split-divider-color = #2e2e2e

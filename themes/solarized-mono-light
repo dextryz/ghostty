@@ -1,0 +1,27 @@
+# solarized-mono-light for Ghostty
+# Solarized base tones only, no accent colors. ANSI colors collapse onto
+# bg / dim / fg / bright, matching colors/solarized-mono.lua with background=light.
+
+palette = 0=#fdf6e3
+palette = 1=#657b83
+palette = 2=#657b83
+palette = 3=#657b83
+palette = 4=#657b83
+palette = 5=#657b83
+palette = 6=#657b83
+palette = 7=#657b83
+palette = 8=#93a1a1
+palette = 9=#586e75
+palette = 10=#586e75
+palette = 11=#586e75
+palette = 12=#586e75
+palette = 13=#586e75
+palette = 14=#586e75
+palette = 15=#586e75
+background = #fdf6e3
+foreground = #657b83
+cursor-color = #586e75
+cursor-text = #fdf6e3
+selection-background = #eee8d5
+selection-foreground = #586e75
+split-divider-color = #eee8d5
